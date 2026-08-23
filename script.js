@@ -6,6 +6,9 @@ var CATS = [
     { key: 'vulf',     name: 'the vulf universe' },
     { key: 'michigan', name: 'michigan indies' },
     { key: 'crate',    name: 'crate digging' },
+    { key: 'guitar',   name: 'guitar rock' },
+    { key: 'songwriters', name: 'singer-songwriters' },
+    { key: 'folk',     name: 'folk and americana' },
     { key: 'indie',    name: 'indie and everything else' },
     { key: 'jazz',     name: 'jazz, piano and ambient' },
     { key: 'holiday',  name: 'the holiday shelf' }
