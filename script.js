@@ -210,11 +210,7 @@ function openSheet(i) {
         return '<div><span>' + kv[0] + '</span>' + esc(kv[1]) + '</div>';
     }).join('');
 
-    var note = '';
-    if (r.runtimeNote) note = r.runtimeNote + '.';
-    else if (r.runtimeSource === 'musicbrainz') note = 'runtime from musicbrainz, not timed off this pressing.';
-    else if (r.runtimeSource === 'discogs-other-pressing') note = 'runtime from another pressing of the same record.';
-    document.getElementById('sheetNote').textContent = note;
+    document.getElementById('sheetNote').textContent = r.runtimeNote ? r.runtimeNote + '.' : '';
 
     var links = [];
     if (r.discogs) links.push([r.discogs, 'view on discogs']);
