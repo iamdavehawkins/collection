@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my collection - records dave hawkins actually owns</title>
+    <meta name="description" content="Every record on the shelf. The vinyl collection of Dave Hawkins, album art first, with pressing details and runtimes.">
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://collection.iamdavehawkins.com/">
+    <meta property="og:title" content="my collection - records dave hawkins actually owns">
+    <meta property="og:description" content="Every record on the shelf. Album art first, with pressing details and runtimes.">
+    <meta property="og:image" content="https://collection.iamdavehawkins.com/art/1934367.jpg">
+    <meta property="og:site_name" content="Dave Hawkins Collection">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="my collection - records dave hawkins actually owns">
+    <meta name="twitter:description" content="Every record on the shelf. Album art first, with pressing details and runtimes.">
+    <meta name="twitter:image" content="https://collection.iamdavehawkins.com/art/1934367.jpg">
+    <meta name="twitter:creator" content="@iamdavehawkins">
+
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="art/1934367.jpg" type="image/jpeg">
+    <script defer src="https://cloud.umami.is/script.js" data-website-id="99efd3af-3c2e-490e-adc0-aa7a12c5f68a"></script>
+</head>
+<body>
+
+<h1 id="top">my collection</h1>
+<h2>Every record on the shelf. denver, co.</h2>
+<p class="small">what i actually own and put on the turntable, not a list of favorites. tap any cover for the pressing details.</p>
+
+<div class="panel panel-hero">
+    <p class="panel-title">join the email list</p>
+    <p class="panel-subtitle">new songs, videos, and infrequent musings, without a social media algorithm in between us</p>
+    <form action="https://buttondown.com/api/emails/embed-subscribe/iamdavehawkins" method="post" target="popupwindow" onsubmit="window.open('https://newsletter.iamdavehawkins.com', 'popupwindow')">
+        <input type="email" name="email" placeholder="your@email.com">
+        <input type="submit" value="join the list">
+        <input type="hidden" value="1" name="embed">
+    </form>
+</div>
+
+<div class="tabs" id="tabs">
+    <button class="tab on" data-source="vinyl">vinyl</button>
+    <button class="tab" data-source="bandcamp" disabled title="coming soon">bandcamp (soon)</button>
+</div>
+
+<div class="controls">
+    <input type="search" id="q" placeholder="search artist, title, label, genre..." autocomplete="off">
+    <label for="view">view:</label>
+    <select id="view">
+        <option value="category">by category</option>
+        <option value="grid">everything</option>
+    </select>
+    <label for="sort">sort:</label>
+    <select id="sort">
+        <option value="artist">artist a to z</option>
+        <option value="added">recently added</option>
+        <option value="year-desc">year, newest</option>
+        <option value="year-asc">year, oldest</option>
+        <option value="runtime-asc">runtime, shortest</option>
+        <option value="runtime-desc">runtime, longest</option>
+    </select>
+    <button class="btn95w" id="random" title="pull one off the shelf at random">random pick</button>
+</div>
+
+<p class="stats" id="stats">loading the shelf...</p>
+
+<div class="grid" id="grid"></div>
+<p class="empty" id="empty" style="display:none;">nothing on the shelf matches that.</p>
+
+<hr>
+
+<div class="footer">
+    made it to the bottom!? <a href="#top">join the email list</a> so you never miss the next one.<br>
+    <a href="https://iamdavehawkins.com" rel="noopener">home</a> &middot;
+    <a href="https://music.iamdavehawkins.com" rel="noopener">the archive</a> &middot;
+    <a href="https://iamdavehawkins.bandcamp.com" target="_blank" rel="noopener">bandcamp</a> &middot;
+    <a href="https://nicethings.iamdavehawkins.com" target="_blank" rel="noopener">nice things</a> &middot;
+    made with love in denver, co
+    <br><span class="small">pressing data from my <a href="https://www.discogs.com/user/iamdavehawkins" target="_blank" rel="noopener">discogs</a> shelf.</span>
+</div>
+
+<div class="sheet" id="sheet" role="dialog" aria-modal="true" aria-labelledby="sheetArtist">
+    <div class="sheet-inner" id="sheetInner">
+        <div class="sheet-top">
+            <div class="sheet-art"><img id="sheetImg" src="" alt=""></div>
+            <div class="sheet-meta">
+                <div class="sheet-artist" id="sheetArtist"></div>
+                <div class="sheet-title" id="sheetTitle"></div>
+                <div id="sheetTags"></div>
+                <div class="sheet-rows" id="sheetRows"></div>
+                <div class="sheet-note" id="sheetNote"></div>
+            </div>
+        </div>
+        <div class="sheet-actions">
+            <button class="sheet-close" id="sheetClose">close</button>
+            <a id="sheetLink" href="#" target="_blank" rel="noopener">view on discogs</a>
+            <span class="sheet-nav">
+                <button id="sheetPrev">&lsaquo; prev</button>
+                <button id="sheetNext">next &rsaquo;</button>
+            </span>
+        </div>
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

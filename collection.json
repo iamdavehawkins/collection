@@ -1,0 +1,3036 @@
+{
+ "updated": "2026-08-23",
+ "records": [
+  {
+   "id": 1046279,
+   "artist": "Andrew Lloyd Webber And Tim Rice",
+   "title": "Jesus Christ Superstar - A Rock Opera",
+   "year": 1970,
+   "label": "Decca",
+   "catno": "DXSA 7206",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Stereo",
+   "genres": [
+    "Rock",
+    "Stage & Screen"
+   ],
+   "styles": [
+    "Rock Opera"
+   ],
+   "tracks": 23,
+   "runtime": 5236,
+   "runtimeSource": "discogs",
+   "added": "2021-09-28",
+   "source": "vinyl",
+   "art": "art/1046279.jpg",
+   "discogs": "https://www.discogs.com/release/1046279",
+   "category": "dads"
+  },
+  {
+   "id": 11475673,
+   "artist": "Anna Burch",
+   "title": "Quit The Curse",
+   "year": 2018,
+   "label": "Polyvinyl Record Company",
+   "catno": "PRC-346",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Folk Rock"
+   ],
+   "tracks": 9,
+   "runtime": 1975,
+   "runtimeSource": "discogs-other-pressing",
+   "added": "2021-09-20",
+   "source": "vinyl",
+   "art": "art/11475673.jpg",
+   "discogs": "https://www.discogs.com/release/11475673",
+   "category": "michigan"
+  },
+  {
+   "id": 15027734,
+   "artist": "Anna Burch",
+   "title": "If You're Dreaming",
+   "year": 2020,
+   "label": "Polyvinyl Record Company",
+   "catno": "PRC-398",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Limited Edition, Stereo",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Indie Rock"
+   ],
+   "tracks": 12,
+   "runtime": 2291,
+   "runtimeSource": "discogs",
+   "added": "2021-09-20",
+   "source": "vinyl",
+   "art": "art/15027734.jpg",
+   "discogs": "https://www.discogs.com/release/15027734",
+   "category": "michigan"
+  },
+  {
+   "id": 6985848,
+   "artist": "Arthur Rubinstein, Frédéric Chopin",
+   "title": "8 Polonaises · 4 Impromptus",
+   "year": null,
+   "label": "RCA Victor Red Seal",
+   "catno": "LSC-7037",
+   "format": "Vinyl, Box Set",
+   "formatDetail": "LP, Stereo",
+   "genres": [
+    "Classical"
+   ],
+   "styles": [
+    "Romantic"
+   ],
+   "tracks": 12,
+   "runtime": null,
+   "runtimeSource": null,
+   "added": "2023-06-04",
+   "source": "vinyl",
+   "art": "art/6985848.jpg",
+   "discogs": "https://www.discogs.com/release/6985848",
+   "category": "jazz"
+  },
+  {
+   "id": 1674119,
+   "artist": "Billy Joel",
+   "title": "Piano Man",
+   "year": 1973,
+   "label": "Columbia",
+   "catno": "KC 32544",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Stereo",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Folk Rock",
+    "Pop Rock"
+   ],
+   "tracks": 10,
+   "runtime": 2571,
+   "runtimeSource": "discogs",
+   "added": "2021-09-28",
+   "source": "vinyl",
+   "art": "art/1674119.jpg",
+   "discogs": "https://www.discogs.com/release/1674119",
+   "category": "dads"
+  },
+  {
+   "id": 9959301,
+   "artist": "Billy Joel",
+   "title": "The Stranger",
+   "year": 1977,
+   "label": "Columbia",
+   "catno": "JC 34987",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Stereo",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Pop Rock"
+   ],
+   "tracks": 10,
+   "runtime": 2534,
+   "runtimeSource": "discogs",
+   "added": "2021-09-28",
+   "source": "vinyl",
+   "art": "art/9959301.jpg",
+   "discogs": "https://www.discogs.com/release/9959301",
+   "category": "dads"
+  },
+  {
+   "id": 822425,
+   "artist": "Billy Joel",
+   "title": "An Innocent Man",
+   "year": 1983,
+   "label": "Columbia",
+   "catno": "QC 38837",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Stereo",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Rock & Roll",
+    "Pop Rock"
+   ],
+   "tracks": 10,
+   "runtime": 2368,
+   "runtimeSource": "discogs",
+   "added": "2021-09-28",
+   "source": "vinyl",
+   "art": "art/822425.jpg",
+   "discogs": "https://www.discogs.com/release/822425",
+   "category": "dads"
+  },
+  {
+   "id": 1139803,
+   "artist": "Blind Faith",
+   "title": "Blind Faith",
+   "year": 1969,
+   "label": "ATCO Records",
+   "catno": "SD 33-304",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Stereo",
+   "genres": [
+    "Rock",
+    "Folk, World, & Country"
+   ],
+   "styles": [
+    "Blues Rock",
+    "Psychedelic Rock"
+   ],
+   "tracks": 6,
+   "runtime": 2526,
+   "runtimeSource": "discogs",
+   "added": "2021-09-28",
+   "source": "vinyl",
+   "art": "art/1139803.jpg",
+   "discogs": "https://www.discogs.com/release/1139803",
+   "category": "dads"
+  },
+  {
+   "id": 3171540,
+   "artist": "Blind Pilot",
+   "title": "We Are The Tide",
+   "year": 2011,
+   "label": "Expunged Records",
+   "catno": "BLI13-LP",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Rock",
+    "Folk, World, & Country"
+   ],
+   "styles": [
+    "Folk Rock",
+    "Indie Rock"
+   ],
+   "tracks": 10,
+   "runtime": 2282,
+   "runtimeSource": "musicbrainz",
+   "added": "2023-01-05",
+   "source": "vinyl",
+   "art": "art/3171540.jpg",
+   "discogs": "https://www.discogs.com/release/3171540",
+   "category": "indie"
+  },
+  {
+   "id": 20413699,
+   "artist": "Blunt Bangs",
+   "title": "Proper Smoker",
+   "year": 2021,
+   "label": "Ernest Jenning Record Co.",
+   "catno": "EJRC186",
+   "format": "Vinyl",
+   "formatDetail": "LP, Limited Edition",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Indie Rock",
+    "Power Pop"
+   ],
+   "tracks": 10,
+   "runtime": 1813,
+   "runtimeSource": "musicbrainz",
+   "added": "2023-03-06",
+   "source": "vinyl",
+   "art": "art/20413699.jpg",
+   "discogs": "https://www.discogs.com/release/20413699",
+   "category": "indie"
+  },
+  {
+   "id": 16755504,
+   "artist": "Bob Hawkins",
+   "title": "Stouffer's Presents The Music Of Bob Hawkins",
+   "year": null,
+   "label": "Stouffer's",
+   "catno": "VC 168",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Jazz",
+    "Pop"
+   ],
+   "styles": [],
+   "tracks": 12,
+   "runtime": null,
+   "runtimeSource": null,
+   "added": "2021-09-24",
+   "source": "vinyl",
+   "art": "art/16755504.jpg",
+   "discogs": "https://www.discogs.com/release/16755504",
+   "category": "family"
+  },
+  {
+   "id": 32541444,
+   "artist": "Brian Eno",
+   "title": "Ambient 1 (Music For Airports)",
+   "year": 2024,
+   "label": "Virgin EMI Records",
+   "catno": "ENOLP6",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Reissue, Stereo",
+   "genres": [
+    "Electronic"
+   ],
+   "styles": [
+    "Ambient",
+    "Minimal"
+   ],
+   "tracks": 4,
+   "runtime": 2777,
+   "runtimeSource": "discogs",
+   "added": "2026-03-08",
+   "source": "vinyl",
+   "art": "art/32541444.jpg",
+   "discogs": "https://www.discogs.com/release/32541444",
+   "category": "jazz"
+  },
+  {
+   "id": 1299637,
+   "artist": "Chase",
+   "title": "Chase",
+   "year": 1971,
+   "label": "Epic",
+   "catno": "E 30472",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Jazz",
+    "Rock",
+    "Funk / Soul"
+   ],
+   "styles": [
+    "Jazz-Rock",
+    "Fusion"
+   ],
+   "tracks": 6,
+   "runtime": 1123,
+   "runtimeSource": "discogs",
+   "added": "2021-09-28",
+   "source": "vinyl",
+   "art": "art/1299637.jpg",
+   "discogs": "https://www.discogs.com/release/1299637",
+   "category": "dads"
+  },
+  {
+   "id": 2570689,
+   "artist": "Chick Corea",
+   "title": "Piano Improvisations Vol. 1",
+   "year": null,
+   "label": "ECM Records",
+   "catno": "ECM 1014 ST",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Reissue, Stereo",
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [],
+   "tracks": 13,
+   "runtime": 2503,
+   "runtimeSource": "discogs",
+   "added": "2021-09-28",
+   "source": "vinyl",
+   "art": "art/2570689.jpg",
+   "discogs": "https://www.discogs.com/release/2570689",
+   "category": "jazz"
+  },
+  {
+   "id": 1908113,
+   "artist": "Chick Corea",
+   "title": "The Mad Hatter",
+   "year": 1978,
+   "label": "Polydor",
+   "catno": "PD-1-6130",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Jazz",
+    "Rock"
+   ],
+   "styles": [
+    "Jazz-Rock",
+    "Fusion"
+   ],
+   "tracks": 8,
+   "runtime": 3010,
+   "runtimeSource": "discogs",
+   "added": "2021-09-28",
+   "source": "vinyl",
+   "art": "art/1908113.jpg",
+   "discogs": "https://www.discogs.com/release/1908113",
+   "category": "dads"
+  },
+  {
+   "id": 23252141,
+   "artist": "Chris Bathgate",
+   "title": "The Significance of Peaches",
+   "year": 2022,
+   "label": "Quite Scientific Records",
+   "catno": "QSR-067LP-C1",
+   "format": "Vinyl",
+   "formatDetail": "LP, Limited Edition, Stereo",
+   "genres": [
+    "Folk, World, & Country"
+   ],
+   "styles": [
+    "Folk"
+   ],
+   "tracks": 10,
+   "runtime": 2683,
+   "runtimeSource": "discogs",
+   "added": "2022-05-16",
+   "source": "vinyl",
+   "art": "art/23252141.jpg",
+   "discogs": "https://www.discogs.com/release/23252141",
+   "category": "michigan"
+  },
+  {
+   "id": 7271877,
+   "artist": "Crash Kings",
+   "title": "Live Nudes",
+   "year": 2015,
+   "label": "Crash Kings Music",
+   "catno": "CKM 01001-1",
+   "format": "Vinyl",
+   "formatDetail": "10\", 33 ⅓ RPM, EP, Stereo",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Alternative Rock"
+   ],
+   "tracks": 5,
+   "runtime": 1143,
+   "runtimeSource": "discogs",
+   "added": "2020-11-30",
+   "source": "vinyl",
+   "art": "art/7271877.jpg",
+   "discogs": "https://www.discogs.com/release/7271877",
+   "category": "indie"
+  },
+  {
+   "id": 2957391,
+   "artist": "Dale Earnhardt Jr. Jr.",
+   "title": "It's A Corporate World",
+   "year": 2011,
+   "label": "Warner Bros. Records",
+   "catno": "527706-1",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Electronic",
+    "Pop",
+    "Rock"
+   ],
+   "styles": [
+    "Indie Rock"
+   ],
+   "tracks": 12,
+   "runtime": 2250,
+   "runtimeSource": "discogs",
+   "added": "2020-11-30",
+   "source": "vinyl",
+   "art": "art/2957391.jpg",
+   "discogs": "https://www.discogs.com/release/2957391",
+   "category": "michigan"
+  },
+  {
+   "id": 4494728,
+   "artist": "Dale Earnhardt Jr. Jr.",
+   "title": "Patterns EP",
+   "year": 2013,
+   "label": "Warner Bros. Records",
+   "catno": "534812-1",
+   "format": "Vinyl",
+   "formatDetail": "12\", 45 RPM, EP, Limited Edition, Record Store Day",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Indie Rock"
+   ],
+   "tracks": 4,
+   "runtime": 820,
+   "runtimeSource": "discogs",
+   "added": "2020-11-30",
+   "source": "vinyl",
+   "art": "art/4494728.jpg",
+   "discogs": "https://www.discogs.com/release/4494728",
+   "category": "michigan"
+  },
+  {
+   "id": "halfaliveep",
+   "artist": "Dave Hawkins",
+   "title": "Half Alive EP",
+   "year": 2026,
+   "label": "Not On Label (Self-released)",
+   "catno": null,
+   "format": "Vinyl",
+   "formatDetail": "EP",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Indie",
+    "Alternative"
+   ],
+   "tracks": 5,
+   "runtime": 1185,
+   "runtimeSource": "masters",
+   "runtimeNote": "timed off my own masters, not a database",
+   "added": "2026-01-30",
+   "source": "vinyl",
+   "art": "art/halfaliveep.jpg",
+   "discogs": null,
+   "mine": true,
+   "bandcamp": "https://iamdavehawkins.bandcamp.com/album/half-alive-ep",
+   "category": "family"
+  },
+  {
+   "id": 2177379,
+   "artist": "Don McLean",
+   "title": "Don McLean",
+   "year": 1972,
+   "label": "United Artists Records",
+   "catno": "UAS 5651",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Rock",
+    "Folk, World, & Country"
+   ],
+   "styles": [
+    "Folk Rock",
+    "Pop Rock"
+   ],
+   "tracks": 10,
+   "runtime": 2111,
+   "runtimeSource": "discogs",
+   "added": "2026-03-08",
+   "source": "vinyl",
+   "art": "art/2177379.jpg",
+   "discogs": "https://www.discogs.com/release/2177379",
+   "category": "canon"
+  },
+  {
+   "id": 6800188,
+   "artist": "Eagles",
+   "title": "Desperado",
+   "year": 1973,
+   "label": "Asylum Records",
+   "catno": "SD 5068",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Stereo",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Country Rock",
+    "Pop Rock"
+   ],
+   "tracks": 11,
+   "runtime": 2140,
+   "runtimeSource": "discogs",
+   "added": "2021-09-28",
+   "source": "vinyl",
+   "art": "art/6800188.jpg",
+   "discogs": "https://www.discogs.com/release/6800188",
+   "category": "dads"
+  },
+  {
+   "id": 1934367,
+   "artist": "Eagles",
+   "title": "Hotel California",
+   "year": 1976,
+   "label": "Asylum Records",
+   "catno": "7E-1084",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Stereo",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Classic Rock",
+    "Pop Rock",
+    "Country Rock",
+    "Soft Rock"
+   ],
+   "tracks": 9,
+   "runtime": 2608,
+   "runtimeSource": "discogs",
+   "added": "2021-09-28",
+   "source": "vinyl",
+   "art": "art/1934367.jpg",
+   "discogs": "https://www.discogs.com/release/1934367",
+   "category": "dads"
+  },
+  {
+   "id": 379798,
+   "artist": "Eagles",
+   "title": "The Long Run",
+   "year": 1979,
+   "label": "Asylum Records",
+   "catno": "5E 508",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Classic Rock"
+   ],
+   "tracks": 10,
+   "runtime": 2549,
+   "runtimeSource": "discogs",
+   "added": "2021-09-28",
+   "source": "vinyl",
+   "art": "art/379798.jpg",
+   "discogs": "https://www.discogs.com/release/379798",
+   "category": "dads"
+  },
+  {
+   "id": 2443142,
+   "artist": "Fitz And The Tantrums",
+   "title": "Pickin' Up The Pieces",
+   "year": 2010,
+   "label": "Dangerbird Records",
+   "catno": "DGB051V",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Alternative Rock"
+   ],
+   "tracks": 10,
+   "runtime": 2164,
+   "runtimeSource": "discogs",
+   "added": "2020-11-30",
+   "source": "vinyl",
+   "art": "art/2443142.jpg",
+   "discogs": "https://www.discogs.com/release/2443142",
+   "category": "indie"
+  },
+  {
+   "id": 4266271,
+   "artist": "Frontier Ruckus",
+   "title": "Eternity Of Dimming",
+   "year": 2013,
+   "label": "Quite Scientific Records",
+   "catno": "QSR-038A",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Rock",
+    "Pop",
+    "Folk, World, & Country"
+   ],
+   "styles": [
+    "Folk",
+    "Indie Pop",
+    "Folk Rock",
+    "Power Pop"
+   ],
+   "tracks": 20,
+   "runtime": 5144,
+   "runtimeSource": "discogs-other-pressing",
+   "added": "2020-11-30",
+   "source": "vinyl",
+   "art": "art/4266271.jpg",
+   "discogs": "https://www.discogs.com/release/4266271",
+   "category": "michigan"
+  },
+  {
+   "id": 35209627,
+   "artist": "Geese",
+   "title": "Getting Killed",
+   "year": 2025,
+   "label": "Partisan Records",
+   "catno": "PTPS60LPX",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Folk Rock",
+    "Experimental",
+    "Indie Rock",
+    "Alternative Rock"
+   ],
+   "tracks": 11,
+   "runtime": 2735,
+   "runtimeSource": "discogs",
+   "added": "2025-12-27",
+   "source": "vinyl",
+   "art": "art/35209627.jpg",
+   "discogs": "https://www.discogs.com/release/35209627",
+   "category": "indie"
+  },
+  {
+   "id": 24640889,
+   "artist": "Jackie Cohen",
+   "title": "Pratfall",
+   "year": 2022,
+   "label": "Earth Libraries",
+   "catno": "EL255",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Pop"
+   ],
+   "styles": [
+    "Indie Pop"
+   ],
+   "tracks": 11,
+   "runtime": null,
+   "runtimeSource": null,
+   "added": "2023-02-06",
+   "source": "vinyl",
+   "art": "art/24640889.jpg",
+   "discogs": "https://www.discogs.com/release/24640889",
+   "category": "indie"
+  },
+  {
+   "id": 35209552,
+   "artist": "Jacob Jeffries",
+   "title": "You Got The Right Idea",
+   "year": 2025,
+   "label": "Diggers Factory",
+   "catno": "TEN009",
+   "format": "Vinyl",
+   "formatDetail": "LP, Limited Edition",
+   "genres": [
+    "Rock",
+    "Pop"
+   ],
+   "styles": [
+    "Alt-Pop"
+   ],
+   "tracks": 12,
+   "runtime": 2746,
+   "runtimeSource": "musicbrainz",
+   "added": "2025-09-26",
+   "source": "vinyl",
+   "art": "art/35209552.jpg",
+   "discogs": "https://www.discogs.com/release/35209552",
+   "category": "indie"
+  },
+  {
+   "id": 14343594,
+   "artist": "Jeff Goldblum, The Mildred Snitzer Orchestra",
+   "title": "I Shouldn't Be Telling You This",
+   "year": 2019,
+   "label": "Decca",
+   "catno": "0602508060526",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Stereo",
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Easy Listening",
+    "Cool Jazz",
+    "Big Band"
+   ],
+   "tracks": 11,
+   "runtime": 2502,
+   "runtimeSource": "musicbrainz",
+   "added": "2021-09-27",
+   "source": "vinyl",
+   "art": "art/14343594.jpg",
+   "discogs": "https://www.discogs.com/release/14343594",
+   "category": "jazz"
+  },
+  {
+   "id": 9030924,
+   "artist": "Joey Dosik",
+   "title": "Game Winner",
+   "year": 2016,
+   "label": "Game Winner Records",
+   "catno": "none",
+   "format": "Vinyl",
+   "formatDetail": "EP, LP",
+   "genres": [
+    "Funk / Soul"
+   ],
+   "styles": [
+    "Soul",
+    "Rhythm & Blues",
+    "Contemporary R&B"
+   ],
+   "tracks": 10,
+   "runtime": null,
+   "runtimeSource": null,
+   "added": "2020-11-30",
+   "source": "vinyl",
+   "art": "art/9030924.jpg",
+   "discogs": "https://www.discogs.com/release/9030924",
+   "category": "vulf"
+  },
+  {
+   "id": 12428827,
+   "artist": "Joey Dosik",
+   "title": "Inside Voice",
+   "year": 2018,
+   "label": "Secretly Canadian",
+   "catno": "SC364",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Limited Edition",
+   "genres": [
+    "Funk / Soul"
+   ],
+   "styles": [],
+   "tracks": 13,
+   "runtime": 2292,
+   "runtimeSource": "discogs",
+   "added": "2020-11-30",
+   "source": "vinyl",
+   "art": "art/12428827.jpg",
+   "discogs": "https://www.discogs.com/release/12428827",
+   "category": "vulf"
+  },
+  {
+   "id": 27520896,
+   "artist": "Joey Dosik",
+   "title": "The Nostalgiac",
+   "year": 2023,
+   "label": "Game Winner Records",
+   "catno": "none",
+   "format": "Vinyl",
+   "formatDetail": "LP, Limited Edition",
+   "genres": [
+    "Funk / Soul"
+   ],
+   "styles": [],
+   "tracks": 11,
+   "runtime": 2314,
+   "runtimeSource": "musicbrainz",
+   "added": "2023-06-29",
+   "source": "vinyl",
+   "art": "art/27520896.jpg",
+   "discogs": "https://www.discogs.com/release/27520896",
+   "category": "vulf"
+  },
+  {
+   "id": 17872237,
+   "artist": "Jon Batiste",
+   "title": "We Are",
+   "year": 2021,
+   "label": "Verve Records",
+   "catno": "B0033337-01",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Jazz",
+    "Funk / Soul",
+    "Pop"
+   ],
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "tracks": 13,
+   "runtime": 2279,
+   "runtimeSource": "discogs",
+   "added": "2022-03-10",
+   "source": "vinyl",
+   "art": "art/17872237.jpg",
+   "discogs": "https://www.discogs.com/release/17872237",
+   "category": "indie"
+  },
+  {
+   "id": 13745548,
+   "artist": "Jr Jr",
+   "title": "Invocations / Conversations",
+   "year": 2019,
+   "label": "Love is EZ",
+   "catno": "LIEZ001",
+   "format": "Vinyl, Vinyl, All Media",
+   "formatDetail": "Album, LP, Limited Edition",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Indie Rock"
+   ],
+   "tracks": 16,
+   "runtime": 3529,
+   "runtimeSource": "discogs-other-pressing",
+   "added": "2021-10-21",
+   "source": "vinyl",
+   "art": "art/13745548.jpg",
+   "discogs": "https://www.discogs.com/release/13745548",
+   "category": "michigan"
+  },
+  {
+   "id": 2646877,
+   "artist": "Jukebox The Ghost",
+   "title": "Let Live & Let Ghosts",
+   "year": 2009,
+   "label": "Rebel Group",
+   "catno": "RBG 0119",
+   "format": "Vinyl",
+   "formatDetail": "LP",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [],
+   "tracks": 12,
+   "runtime": 2534,
+   "runtimeSource": "discogs",
+   "added": "2020-11-30",
+   "source": "vinyl",
+   "art": "art/2646877.jpg",
+   "discogs": "https://www.discogs.com/release/2646877",
+   "category": "indie"
+  },
+  {
+   "id": 11880993,
+   "artist": "Jukebox The Ghost",
+   "title": "Long Way Home: Live",
+   "year": 2018,
+   "label": "Not On Label",
+   "catno": "none",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [],
+   "tracks": 17,
+   "runtime": null,
+   "runtimeSource": null,
+   "added": "2021-09-08",
+   "source": "vinyl",
+   "art": "art/11880993.jpg",
+   "discogs": "https://www.discogs.com/release/11880993",
+   "category": "indie"
+  },
+  {
+   "id": 6199635,
+   "artist": "Katalenic-Kwek Band",
+   "title": "Morning Sun",
+   "year": 1983,
+   "label": "Great Dane Records And Tapes",
+   "catno": "KKB-1001",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Big Band",
+    "Fusion"
+   ],
+   "tracks": 6,
+   "runtime": 2754,
+   "runtimeSource": "discogs",
+   "added": "2021-09-28",
+   "source": "vinyl",
+   "art": "art/6199635.jpg",
+   "discogs": "https://www.discogs.com/release/6199635",
+   "category": "family"
+  },
+  {
+   "id": 34158799,
+   "artist": "Kristóf Hajós",
+   "title": "6:00PM",
+   "year": 2025,
+   "label": "Tiny Room Records",
+   "catno": "TR072",
+   "format": "Vinyl",
+   "formatDetail": "LP",
+   "genres": [
+    "Pop"
+   ],
+   "styles": [
+    "Alt-Pop"
+   ],
+   "tracks": 9,
+   "runtime": null,
+   "runtimeSource": null,
+   "added": "2025-06-02",
+   "source": "vinyl",
+   "art": "art/34158799.jpg",
+   "discogs": "https://www.discogs.com/release/34158799",
+   "category": "indie"
+  },
+  {
+   "id": 25495024,
+   "artist": "Left Field Messiah",
+   "title": "In Praise of Bombast",
+   "year": null,
+   "label": "Riptide Music",
+   "catno": "none",
+   "format": "Vinyl",
+   "formatDetail": "LP",
+   "genres": [
+    "Electronic",
+    "Rock"
+   ],
+   "styles": [
+    "Art Rock",
+    "Alternative Rock"
+   ],
+   "tracks": 9,
+   "runtime": 1861,
+   "runtimeSource": "musicbrainz",
+   "added": "2023-03-07",
+   "source": "vinyl",
+   "art": "art/25495024.jpg",
+   "discogs": "https://www.discogs.com/release/25495024",
+   "category": "indie"
+  },
+  {
+   "id": 19480021,
+   "artist": "Lightning Love",
+   "title": "November Birthday",
+   "year": 2021,
+   "label": "Lost In Ohio",
+   "catno": "LOH-05",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Reissue, Remastered",
+   "genres": [
+    "Rock",
+    "Pop"
+   ],
+   "styles": [
+    "Indie Pop"
+   ],
+   "tracks": 13,
+   "runtime": 1604,
+   "runtimeSource": "discogs-other-pressing",
+   "added": "2021-09-16",
+   "source": "vinyl",
+   "art": "art/19480021.jpg",
+   "discogs": "https://www.discogs.com/release/19480021",
+   "category": "michigan"
+  },
+  {
+   "id": 23434373,
+   "artist": "Liily",
+   "title": "TV or Not TV",
+   "year": 2022,
+   "label": "Flush Records (6)",
+   "catno": "FL06",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Alternative Rock",
+    "Experimental",
+    "Art Rock",
+    "Post-Punk"
+   ],
+   "tracks": 12,
+   "runtime": 2616,
+   "runtimeSource": "discogs-other-pressing",
+   "added": "2023-02-06",
+   "source": "vinyl",
+   "art": "art/23434373.jpg",
+   "discogs": "https://www.discogs.com/release/23434373",
+   "category": "indie"
+  },
+  {
+   "id": 16709757,
+   "artist": "Lizzy McAlpine",
+   "title": "Give Me A Minute",
+   "year": 2020,
+   "label": "Not On Label (Lizzy McAlpine Self-released)",
+   "catno": "none",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Funk / Soul",
+    "Pop",
+    "Folk, World, & Country",
+    "Stage & Screen"
+   ],
+   "styles": [
+    "Indie Pop",
+    "Folk",
+    "Ballad"
+   ],
+   "tracks": 13,
+   "runtime": 2616,
+   "runtimeSource": "discogs",
+   "added": "2022-01-31",
+   "source": "vinyl",
+   "art": "art/16709757.jpg",
+   "discogs": "https://www.discogs.com/release/16709757",
+   "category": "indie"
+  },
+  {
+   "id": 24314024,
+   "artist": "Lizzy McAlpine",
+   "title": "Five Seconds Flat",
+   "year": 2022,
+   "label": "Harbour Artists & Music",
+   "catno": "HRL010A",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Rock",
+    "Pop"
+   ],
+   "styles": [
+    "Indie Pop",
+    "Alternative Rock"
+   ],
+   "tracks": 14,
+   "runtime": 2698,
+   "runtimeSource": "discogs",
+   "added": "2022-08-26",
+   "source": "vinyl",
+   "art": "art/24314024.jpg",
+   "discogs": "https://www.discogs.com/release/24314024",
+   "category": "indie"
+  },
+  {
+   "id": 30965170,
+   "artist": "Lizzy McAlpine",
+   "title": "Older",
+   "year": 2024,
+   "label": "RCA",
+   "catno": "19658-84489-1",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Rock",
+    "Pop",
+    "Folk, World, & Country"
+   ],
+   "styles": [
+    "Acoustic",
+    "Folk"
+   ],
+   "tracks": 14,
+   "runtime": 2743,
+   "runtimeSource": "discogs-other-pressing",
+   "added": "2024-06-19",
+   "source": "vinyl",
+   "art": "art/30965170.jpg",
+   "discogs": "https://www.discogs.com/release/30965170",
+   "category": "indie"
+  },
+  {
+   "id": 1318188,
+   "artist": "Loggins And Messina",
+   "title": "Sittin' In",
+   "year": 1971,
+   "label": "Columbia",
+   "catno": "C 31044",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Country Rock",
+    "Folk Rock"
+   ],
+   "tracks": 8,
+   "runtime": 2015,
+   "runtimeSource": "discogs",
+   "added": "2026-03-08",
+   "source": "vinyl",
+   "art": "art/1318188.jpg",
+   "discogs": "https://www.discogs.com/release/1318188",
+   "category": "canon"
+  },
+  {
+   "id": 14053784,
+   "artist": "Matthew Milia",
+   "title": "Alone at St. Hugo",
+   "year": 2019,
+   "label": "Sitcom Universe",
+   "catno": "SU-002",
+   "format": "Vinyl",
+   "formatDetail": "LP",
+   "genres": [
+    "Rock",
+    "Pop",
+    "Folk, World, & Country"
+   ],
+   "styles": [
+    "Power Pop",
+    "Folk Rock"
+   ],
+   "tracks": 10,
+   "runtime": 2870,
+   "runtimeSource": "discogs-other-pressing",
+   "added": "2021-09-09",
+   "source": "vinyl",
+   "art": "art/14053784.jpg",
+   "discogs": "https://www.discogs.com/release/14053784",
+   "category": "michigan"
+  },
+  {
+   "id": 21257509,
+   "artist": "Matthew Milia",
+   "title": "Keego Harbor",
+   "year": 2021,
+   "label": "Sitcom Universe",
+   "catno": "SU-003",
+   "format": "Vinyl",
+   "formatDetail": "LP",
+   "genres": [
+    "Folk, World, & Country"
+   ],
+   "styles": [],
+   "tracks": 10,
+   "runtime": 3053,
+   "runtimeSource": "musicbrainz",
+   "added": "2021-12-06",
+   "source": "vinyl",
+   "art": "art/21257509.jpg",
+   "discogs": "https://www.discogs.com/release/21257509",
+   "category": "michigan"
+  },
+  {
+   "id": 24037832,
+   "artist": "May Erlewine",
+   "title": "Tiny Beautiful Things",
+   "year": 2022,
+   "label": "Not On Label (May Erlewine Self-released)",
+   "catno": "none",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Stereo",
+   "genres": [
+    "Folk, World, & Country"
+   ],
+   "styles": [
+    "Folk"
+   ],
+   "tracks": 10,
+   "runtime": 2301,
+   "runtimeSource": "musicbrainz",
+   "added": "2022-07-31",
+   "source": "vinyl",
+   "art": "art/24037832.jpg",
+   "discogs": "https://www.discogs.com/release/24037832",
+   "category": "michigan"
+  },
+  {
+   "id": 27592995,
+   "artist": "May Erlewine",
+   "title": "The Real Thing",
+   "year": 2023,
+   "label": "10 Good Songs",
+   "catno": "007",
+   "format": "Vinyl",
+   "formatDetail": "LP, Stereo",
+   "genres": [
+    "Folk, World, & Country"
+   ],
+   "styles": [],
+   "tracks": 10,
+   "runtime": 2248,
+   "runtimeSource": "discogs-other-pressing",
+   "added": "2025-04-01",
+   "source": "vinyl",
+   "art": "art/27592995.jpg",
+   "discogs": "https://www.discogs.com/release/27592995",
+   "category": "michigan"
+  },
+  {
+   "id": 33565758,
+   "artist": "May Erlewine",
+   "title": "What It Takes",
+   "year": 2025,
+   "label": "Ten Good Songs",
+   "catno": "TEN008",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Numbered, Stereo",
+   "genres": [
+    "Rock",
+    "Folk, World, & Country"
+   ],
+   "styles": [],
+   "tracks": 10,
+   "runtime": 2433,
+   "runtimeSource": "discogs",
+   "added": "2025-04-01",
+   "source": "vinyl",
+   "art": "art/33565758.jpg",
+   "discogs": "https://www.discogs.com/release/33565758",
+   "category": "michigan"
+  },
+  {
+   "id": 16173016,
+   "artist": "May Erlewine, The Woody Goss Band",
+   "title": "Anyway",
+   "year": 2020,
+   "label": "Sapsucker Productions",
+   "catno": "none",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [],
+   "tracks": 9,
+   "runtime": 1731,
+   "runtimeSource": "discogs",
+   "added": "2020-11-30",
+   "source": "vinyl",
+   "art": "art/16173016.jpg",
+   "discogs": "https://www.discogs.com/release/16173016",
+   "category": "michigan"
+  },
+  {
+   "id": 3149089,
+   "artist": "Mayer Hawthorne",
+   "title": "How Do You Do",
+   "year": 2011,
+   "label": "Universal Republic Records",
+   "catno": "B0016109-01",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Funk / Soul"
+   ],
+   "styles": [
+    "Soul"
+   ],
+   "tracks": 12,
+   "runtime": 2373,
+   "runtimeSource": "discogs",
+   "added": "2020-11-30",
+   "source": "vinyl",
+   "art": "art/3149089.jpg",
+   "discogs": "https://www.discogs.com/release/3149089",
+   "category": "michigan"
+  },
+  {
+   "id": 1422192,
+   "artist": "Maynard Ferguson",
+   "title": "Maynard Ferguson",
+   "year": 1971,
+   "label": "Columbia",
+   "catno": "C 31117",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Fusion",
+    "Big Band"
+   ],
+   "tracks": 9,
+   "runtime": 2268,
+   "runtimeSource": "discogs",
+   "added": "2021-09-28",
+   "source": "vinyl",
+   "art": "art/1422192.jpg",
+   "discogs": "https://www.discogs.com/release/1422192",
+   "category": "dads"
+  },
+  {
+   "id": 1171365,
+   "artist": "Maynard Ferguson",
+   "title": "M.F. Horn Two",
+   "year": 1972,
+   "label": "Columbia",
+   "catno": "KC 31709",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Fusion",
+    "Jazz-Funk"
+   ],
+   "tracks": 8,
+   "runtime": 2507,
+   "runtimeSource": "discogs",
+   "added": "2021-09-28",
+   "source": "vinyl",
+   "art": "art/1171365.jpg",
+   "discogs": "https://www.discogs.com/release/1171365",
+   "category": "dads"
+  },
+  {
+   "id": 771843,
+   "artist": "Maynard Ferguson",
+   "title": "M.F. Horn | 3",
+   "year": 1973,
+   "label": "Columbia",
+   "catno": "KC 32403",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Fusion"
+   ],
+   "tracks": 7,
+   "runtime": 2296,
+   "runtimeSource": "discogs",
+   "added": "2021-09-28",
+   "source": "vinyl",
+   "art": "art/771843.jpg",
+   "discogs": "https://www.discogs.com/release/771843",
+   "category": "dads"
+  },
+  {
+   "id": 1422679,
+   "artist": "Maynard Ferguson",
+   "title": "Chameleon",
+   "year": 1974,
+   "label": "Columbia",
+   "catno": "KC 33007",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Big Band",
+    "Jazz-Funk"
+   ],
+   "tracks": 8,
+   "runtime": 2386,
+   "runtimeSource": "discogs",
+   "added": "2021-09-28",
+   "source": "vinyl",
+   "art": "art/1422679.jpg",
+   "discogs": "https://www.discogs.com/release/1422679",
+   "category": "dads"
+  },
+  {
+   "id": 1334307,
+   "artist": "Maynard Ferguson",
+   "title": "M.F. Horn 4&5: Live At Jimmy's",
+   "year": 1974,
+   "label": "Columbia",
+   "catno": "PG 32732",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Fusion",
+    "Big Band"
+   ],
+   "tracks": 10,
+   "runtime": 3805,
+   "runtimeSource": "discogs",
+   "added": "2020-11-30",
+   "source": "vinyl",
+   "art": "art/1334307.jpg",
+   "discogs": "https://www.discogs.com/release/1334307",
+   "category": "dads"
+  },
+  {
+   "id": 4127823,
+   "artist": "Mike Coykendall",
+   "title": "Chasing Away The Dots",
+   "year": 2012,
+   "label": "Fluff And Gravy Records",
+   "catno": "FNG005",
+   "format": "Vinyl",
+   "formatDetail": "LP",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [],
+   "tracks": 14,
+   "runtime": null,
+   "runtimeSource": null,
+   "added": "2023-01-03",
+   "source": "vinyl",
+   "art": "art/4127823.jpg",
+   "discogs": "https://www.discogs.com/release/4127823",
+   "category": "indie"
+  },
+  {
+   "id": 31670339,
+   "artist": "MJ Lenderman",
+   "title": "Manning Fireworks",
+   "year": 2024,
+   "label": "Anti-",
+   "catno": "88013-1",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Country Rock",
+    "Indie Rock",
+    "Slowcore"
+   ],
+   "tracks": 9,
+   "runtime": 2328,
+   "runtimeSource": "discogs",
+   "added": "2025-10-05",
+   "source": "vinyl",
+   "art": "art/31670339.jpg",
+   "discogs": "https://www.discogs.com/release/31670339",
+   "category": "indie"
+  },
+  {
+   "id": 428725,
+   "artist": "Neil Young",
+   "title": "After The Gold Rush",
+   "year": 1970,
+   "label": "Reprise Records",
+   "catno": "RS 6383",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Stereo",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Rock & Roll",
+    "Country Rock",
+    "Folk Rock"
+   ],
+   "tracks": 11,
+   "runtime": 2021,
+   "runtimeSource": "discogs",
+   "added": "2023-09-08",
+   "source": "vinyl",
+   "art": "art/428725.jpg",
+   "discogs": "https://www.discogs.com/release/428725",
+   "category": "canon"
+  },
+  {
+   "id": 4579433,
+   "artist": "Neil Young",
+   "title": "Comes A Time",
+   "year": 1978,
+   "label": "Reprise Records",
+   "catno": "MSK 2266",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Folk Rock"
+   ],
+   "tracks": 10,
+   "runtime": 2235,
+   "runtimeSource": "discogs",
+   "added": "2023-05-05",
+   "source": "vinyl",
+   "art": "art/4579433.jpg",
+   "discogs": "https://www.discogs.com/release/4579433",
+   "category": "dads"
+  },
+  {
+   "id": 21229069,
+   "artist": "Nick Lutsko",
+   "title": "More Songs On The Computer",
+   "year": 2022,
+   "label": "Not On Label (Nick Lutsko Self-released)",
+   "catno": "none",
+   "format": "Vinyl",
+   "formatDetail": "Compilation, LP, Limited Edition",
+   "genres": [
+    "Electronic",
+    "Rock",
+    "Pop"
+   ],
+   "styles": [
+    "Novelty",
+    "Comedy"
+   ],
+   "tracks": 17,
+   "runtime": 1974,
+   "runtimeSource": "discogs",
+   "added": "2022-11-25",
+   "source": "vinyl",
+   "art": "art/21229069.jpg",
+   "discogs": "https://www.discogs.com/release/21229069",
+   "category": "indie"
+  },
+  {
+   "id": 31704830,
+   "artist": "Nilüfer Yanya",
+   "title": "My Method Actor",
+   "year": 2024,
+   "label": "Ninja Tune",
+   "catno": "ZEN307",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Stereo",
+   "genres": [
+    "Rock",
+    "Pop"
+   ],
+   "styles": [
+    "Indie Rock",
+    "Indie Pop"
+   ],
+   "tracks": 11,
+   "runtime": 2656,
+   "runtimeSource": "discogs-other-pressing",
+   "added": "2024-11-22",
+   "source": "vinyl",
+   "art": "art/31704830.jpg",
+   "discogs": "https://www.discogs.com/release/31704830",
+   "category": "indie"
+  },
+  {
+   "id": 1031388,
+   "artist": "Paul Simon",
+   "title": "Graceland",
+   "year": 1986,
+   "label": "Warner Bros. Records",
+   "catno": "9 25447-1",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Stereo",
+   "genres": [
+    "Jazz",
+    "Rock",
+    "Funk / Soul",
+    "Pop",
+    "Folk, World, & Country"
+   ],
+   "styles": [
+    "Folk Rock",
+    "Pop Rock",
+    "African",
+    "Afrobeat",
+    "Zydeco",
+    "Funk",
+    "Rhythm & Blues"
+   ],
+   "tracks": 11,
+   "runtime": 2557,
+   "runtimeSource": "discogs",
+   "added": "2023-09-08",
+   "source": "vinyl",
+   "art": "art/1031388.jpg",
+   "discogs": "https://www.discogs.com/release/1031388",
+   "category": "canon"
+  },
+  {
+   "id": 28279858,
+   "artist": "Shakey Graves",
+   "title": "Movie Of The Week",
+   "year": 2023,
+   "label": "Dualtone",
+   "catno": "80302-02549-16",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Indie Rock"
+   ],
+   "tracks": 13,
+   "runtime": 3046,
+   "runtimeSource": "discogs-other-pressing",
+   "added": "2024-01-20",
+   "source": "vinyl",
+   "art": "art/28279858.jpg",
+   "discogs": "https://www.discogs.com/release/28279858",
+   "category": "indie"
+  },
+  {
+   "id": 25045687,
+   "artist": "Sia",
+   "title": "Everyday Is Christmas",
+   "year": 2022,
+   "label": "Monkey Puzzle Records",
+   "catno": "075678638626",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Reissue, Repress, Stereo",
+   "genres": [
+    "Pop"
+   ],
+   "styles": [
+    "Vocal",
+    "Holiday"
+   ],
+   "tracks": 10,
+   "runtime": 2108,
+   "runtimeSource": "discogs-other-pressing",
+   "added": "2022-11-30",
+   "source": "vinyl",
+   "art": "art/25045687.jpg",
+   "discogs": "https://www.discogs.com/release/25045687",
+   "category": "holiday"
+  },
+  {
+   "id": 20774380,
+   "artist": "Silent Old Mtns.",
+   "title": "Gary",
+   "year": 2019,
+   "label": "Silent Old Mtns.",
+   "catno": "001",
+   "format": "Vinyl",
+   "formatDetail": "LP, Stereo",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Indie Rock"
+   ],
+   "tracks": 8,
+   "runtime": 2121,
+   "runtimeSource": "discogs",
+   "added": "2023-01-03",
+   "source": "vinyl",
+   "art": "art/20774380.jpg",
+   "discogs": "https://www.discogs.com/release/20774380",
+   "category": "michigan"
+  },
+  {
+   "id": 605328,
+   "artist": "Simon & Garfunkel",
+   "title": "Bridge Over Troubled Water",
+   "year": 1970,
+   "label": "Columbia",
+   "catno": "KCS 9914",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Stereo",
+   "genres": [
+    "Pop"
+   ],
+   "styles": [
+    "Folk Rock",
+    "Pop Rock",
+    "Soft Rock"
+   ],
+   "tracks": 11,
+   "runtime": 2206,
+   "runtimeSource": "discogs",
+   "added": "2021-10-13",
+   "source": "vinyl",
+   "art": "art/605328.jpg",
+   "discogs": "https://www.discogs.com/release/605328",
+   "category": "canon"
+  },
+  {
+   "id": 16056523,
+   "artist": "Slow Pulp",
+   "title": "Moveys",
+   "year": 2020,
+   "label": "Winspear",
+   "catno": "WSP035",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Indie Rock",
+    "Shoegaze",
+    "Lo-Fi"
+   ],
+   "tracks": 10,
+   "runtime": 1575,
+   "runtimeSource": "discogs-other-pressing",
+   "added": "2023-03-07",
+   "source": "vinyl",
+   "art": "art/16056523.jpg",
+   "discogs": "https://www.discogs.com/release/16056523",
+   "category": "indie"
+  },
+  {
+   "id": 3606435,
+   "artist": "Stepdad",
+   "title": "Ordinaire EP",
+   "year": 2012,
+   "label": "Quite Scientific Records",
+   "catno": "QSR-026A",
+   "format": "Vinyl",
+   "formatDetail": "12\", EP",
+   "genres": [
+    "Electronic",
+    "Pop"
+   ],
+   "styles": [
+    "Electro",
+    "Synth-pop"
+   ],
+   "tracks": 10,
+   "runtime": 2414,
+   "runtimeSource": "discogs",
+   "added": "2020-11-30",
+   "source": "vinyl",
+   "art": "art/3606435.jpg",
+   "discogs": "https://www.discogs.com/release/3606435",
+   "category": "michigan"
+  },
+  {
+   "id": 8260806,
+   "artist": "Stepdad",
+   "title": "Masterbeast Theatre",
+   "year": 2016,
+   "label": "Quite Scientific Records",
+   "catno": "QSR-055LP-C1",
+   "format": "Vinyl",
+   "formatDetail": "12\", 45 RPM, EP",
+   "genres": [
+    "Electronic",
+    "Pop"
+   ],
+   "styles": [
+    "Synth-pop"
+   ],
+   "tracks": 4,
+   "runtime": 982,
+   "runtimeSource": "discogs",
+   "added": "2021-10-20",
+   "source": "vinyl",
+   "art": "art/8260806.jpg",
+   "discogs": "https://www.discogs.com/release/8260806",
+   "category": "michigan"
+  },
+  {
+   "id": 3042382,
+   "artist": "Steve Miller Band",
+   "title": "Sailor",
+   "year": 1968,
+   "label": "Capitol Records",
+   "catno": "ST 2984",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Blues Rock",
+    "Psychedelic Rock"
+   ],
+   "tracks": 10,
+   "runtime": 2068,
+   "runtimeSource": "discogs",
+   "added": "2021-09-28",
+   "source": "vinyl",
+   "art": "art/3042382.jpg",
+   "discogs": "https://www.discogs.com/release/3042382",
+   "category": "dads"
+  },
+  {
+   "id": 9867130,
+   "artist": "Steve Miller Band",
+   "title": "Book Of Dreams",
+   "year": 1977,
+   "label": "Capitol Records",
+   "catno": "SO-11630",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Blues Rock",
+    "Pop Rock"
+   ],
+   "tracks": 12,
+   "runtime": 2269,
+   "runtimeSource": "discogs",
+   "added": "2021-09-28",
+   "source": "vinyl",
+   "art": "art/9867130.jpg",
+   "discogs": "https://www.discogs.com/release/9867130",
+   "category": "dads"
+  },
+  {
+   "id": 587145,
+   "artist": "Sufjan Stevens",
+   "title": "Greetings From Michigan The Great Lake State",
+   "year": 2004,
+   "label": "Asthmatic Kitty Records",
+   "catno": "AKR007",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Electronic",
+    "Rock",
+    "Pop"
+   ],
+   "styles": [
+    "Folk Rock",
+    "Acoustic",
+    "Experimental"
+   ],
+   "tracks": 20,
+   "runtime": 3968,
+   "runtimeSource": "discogs-other-pressing",
+   "added": "2020-11-30",
+   "source": "vinyl",
+   "art": "art/587145.jpg",
+   "discogs": "https://www.discogs.com/release/587145",
+   "category": "michigan"
+  },
+  {
+   "id": 3059678,
+   "artist": "Tally Hall",
+   "title": "Good & Evil",
+   "year": 2011,
+   "label": "Quack! Media",
+   "catno": "QK!028",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Limited Edition",
+   "genres": [
+    "Electronic",
+    "Rock",
+    "Pop",
+    "Folk, World, & Country"
+   ],
+   "styles": [
+    "Alternative Rock",
+    "Pop Rock",
+    "Psychedelic Rock",
+    "Indie Pop",
+    "Folk Rock"
+   ],
+   "tracks": 14,
+   "runtime": 2938,
+   "runtimeSource": "discogs",
+   "added": "2020-11-30",
+   "source": "vinyl",
+   "art": "art/3059678.jpg",
+   "discogs": "https://www.discogs.com/release/3059678",
+   "category": "michigan"
+  },
+  {
+   "id": 20520802,
+   "artist": "Tally Hall",
+   "title": "Just A Friend",
+   "year": 2021,
+   "label": "Needlejuice Records",
+   "catno": "NJR-045",
+   "format": "Vinyl",
+   "formatDetail": "45 RPM, 7\", Maxi-Single",
+   "genres": [
+    "Rock",
+    "Pop"
+   ],
+   "styles": [
+    "Pop Rock",
+    "Indie Rock"
+   ],
+   "tracks": 3,
+   "runtime": 476,
+   "runtimeSource": "discogs",
+   "added": "2021-12-06",
+   "source": "vinyl",
+   "art": "art/20520802.jpg",
+   "discogs": "https://www.discogs.com/release/20520802",
+   "category": "michigan"
+  },
+  {
+   "id": 20695207,
+   "artist": "Tally Hall",
+   "title": "Marvin's Marvelous Mechanical Museum",
+   "year": 2021,
+   "label": "Needlejuice Records",
+   "catno": "NJR-044",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Picture Disc, Reissue, Remastered",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Pop Rock",
+    "Indie Rock"
+   ],
+   "tracks": 15,
+   "runtime": 2960,
+   "runtimeSource": "discogs-other-pressing",
+   "added": "2021-12-28",
+   "source": "vinyl",
+   "art": "art/20695207.jpg",
+   "discogs": "https://www.discogs.com/release/20695207",
+   "category": "michigan"
+  },
+  {
+   "id": 7015786,
+   "artist": "The Band",
+   "title": "Stage Fright",
+   "year": null,
+   "label": "Capitol Records",
+   "catno": "SW 500425",
+   "format": "Vinyl",
+   "formatDetail": "Album, Club Edition, LP, Stereo",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Blues Rock",
+    "Folk Rock"
+   ],
+   "tracks": 10,
+   "runtime": 2122,
+   "runtimeSource": "discogs",
+   "added": "2021-09-28",
+   "source": "vinyl",
+   "art": "art/7015786.jpg",
+   "discogs": "https://www.discogs.com/release/7015786",
+   "category": "dads"
+  },
+  {
+   "id": 10400999,
+   "artist": "The Band",
+   "title": "The Best Of The Band",
+   "year": 1976,
+   "label": "Capitol Records",
+   "catno": "ST-11553",
+   "format": "Vinyl",
+   "formatDetail": "Compilation, LP, Stereo",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Country Rock",
+    "Rock & Roll",
+    "AOR",
+    "Pop Rock"
+   ],
+   "tracks": 11,
+   "runtime": 2822,
+   "runtimeSource": "discogs",
+   "added": "2021-09-28",
+   "source": "vinyl",
+   "art": "art/10400999.jpg",
+   "discogs": "https://www.discogs.com/release/10400999",
+   "category": "dads"
+  },
+  {
+   "id": 1334394,
+   "artist": "The Beatles",
+   "title": "Sgt. Pepper's Lonely Hearts Club Band",
+   "year": 1968,
+   "label": "Capitol Records",
+   "catno": "SMAS 2653",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Repress, Stereo",
+   "genres": [
+    "Rock",
+    "Pop"
+   ],
+   "styles": [
+    "Psychedelic Rock",
+    "Pop Rock"
+   ],
+   "tracks": 13,
+   "runtime": 2332,
+   "runtimeSource": "discogs",
+   "added": "2021-09-28",
+   "source": "vinyl",
+   "art": "art/1334394.jpg",
+   "discogs": "https://www.discogs.com/release/1334394",
+   "category": "canon"
+  },
+  {
+   "id": 30322634,
+   "artist": "The Bygones",
+   "title": "The Bygones",
+   "year": 2024,
+   "label": "Not On Label (The Bygones (4) Self-released)",
+   "catno": "none",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Stereo",
+   "genres": [
+    "Rock",
+    "Folk, World, & Country"
+   ],
+   "styles": [],
+   "tracks": 13,
+   "runtime": 2322,
+   "runtimeSource": "discogs",
+   "added": "2024-04-26",
+   "source": "vinyl",
+   "art": "art/30322634.jpg",
+   "discogs": "https://www.discogs.com/release/30322634",
+   "category": "indie"
+  },
+  {
+   "id": 15924333,
+   "artist": "The Fearless Flyers",
+   "title": "Tailwinds",
+   "year": 2020,
+   "label": "Vulf Records",
+   "catno": "VULF2020FF03",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Limited Edition, Stereo",
+   "genres": [
+    "Jazz",
+    "Rock",
+    "Funk / Soul"
+   ],
+   "styles": [
+    "Funk",
+    "Jazz-Rock"
+   ],
+   "tracks": 10,
+   "runtime": 1664,
+   "runtimeSource": "discogs",
+   "added": "2020-11-30",
+   "source": "vinyl",
+   "art": "art/15924333.jpg",
+   "discogs": "https://www.discogs.com/release/15924333",
+   "category": "vulf"
+  },
+  {
+   "id": 21268198,
+   "artist": "The Fearless Flyers",
+   "title": "Flyers Live At Madison Square Garden",
+   "year": 2021,
+   "label": "Vulf Records",
+   "catno": "VULF2021FF04MSG",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Limited Edition",
+   "genres": [
+    "Funk / Soul"
+   ],
+   "styles": [
+    "Funk"
+   ],
+   "tracks": 12,
+   "runtime": 2143,
+   "runtimeSource": "discogs",
+   "added": "2022-01-18",
+   "source": "vinyl",
+   "art": "art/21268198.jpg",
+   "discogs": "https://www.discogs.com/release/21268198",
+   "category": "vulf"
+  },
+  {
+   "id": 23656994,
+   "artist": "The Fearless Flyers",
+   "title": "The Fearless Flyers III",
+   "year": 2022,
+   "label": "Vulf Records",
+   "catno": "VULF2022FF04",
+   "format": "Vinyl",
+   "formatDetail": "12\", 45 RPM, EP, Limited Edition, Stereo",
+   "genres": [
+    "Funk / Soul"
+   ],
+   "styles": [
+    "Funk"
+   ],
+   "tracks": 6,
+   "runtime": 956,
+   "runtimeSource": "discogs",
+   "added": "2022-07-28",
+   "source": "vinyl",
+   "art": "art/23656994.jpg",
+   "discogs": "https://www.discogs.com/release/23656994",
+   "category": "vulf"
+  },
+  {
+   "id": 30952968,
+   "artist": "The Fearless Flyers",
+   "title": "The Fearless Flyers IV",
+   "year": 2024,
+   "label": "Vulf Records",
+   "catno": "VULF2024FF",
+   "format": "Vinyl",
+   "formatDetail": "12\", 33 ⅓ RPM, EP, Limited Edition, Numbered",
+   "genres": [
+    "Funk / Soul"
+   ],
+   "styles": [
+    "Funk"
+   ],
+   "tracks": 6,
+   "runtime": 1717,
+   "runtimeSource": "discogs",
+   "added": "2024-06-17",
+   "source": "vinyl",
+   "art": "art/30952968.jpg",
+   "discogs": "https://www.discogs.com/release/30952968",
+   "category": "vulf"
+  },
+  {
+   "id": 18387832,
+   "artist": "The Happy Fits",
+   "title": "Awfully Apeelin'",
+   "year": 2021,
+   "label": "The Happy Fits Records",
+   "catno": "none",
+   "format": "Vinyl",
+   "formatDetail": "12\", EP",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Alternative Rock",
+    "Indie Rock"
+   ],
+   "tracks": 10,
+   "runtime": 2384,
+   "runtimeSource": "discogs",
+   "added": "2023-02-06",
+   "source": "vinyl",
+   "art": "art/18387832.jpg",
+   "discogs": "https://www.discogs.com/release/18387832",
+   "category": "indie"
+  },
+  {
+   "id": 2758809,
+   "artist": "The Hard Lessons",
+   "title": "Arms Forest",
+   "year": 2009,
+   "label": "Quack! Media",
+   "catno": "QK!-021",
+   "format": "Vinyl",
+   "formatDetail": "LP",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Garage Rock"
+   ],
+   "tracks": 13,
+   "runtime": 2446,
+   "runtimeSource": "musicbrainz",
+   "added": "2020-11-30",
+   "source": "vinyl",
+   "art": "art/2758809.jpg",
+   "discogs": "https://www.discogs.com/release/2758809",
+   "category": "michigan"
+  },
+  {
+   "id": 21508774,
+   "artist": "The Other Favorites",
+   "title": "Unamericana",
+   "year": 2021,
+   "label": "Not On Label",
+   "catno": "none",
+   "format": "CD",
+   "formatDetail": "Album",
+   "genres": [
+    "Folk, World, & Country"
+   ],
+   "styles": [],
+   "tracks": 12,
+   "runtime": 2595,
+   "runtimeSource": "discogs",
+   "added": "2022-07-12",
+   "source": "vinyl",
+   "art": "art/21508774.jpg",
+   "discogs": "https://www.discogs.com/release/21508774",
+   "category": "indie"
+  },
+  {
+   "id": 3219084,
+   "artist": "The Paul Butterfield Blues Band",
+   "title": "East-West",
+   "year": 1966,
+   "label": "Elektra",
+   "catno": "EKL-315",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Mono",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Blues Rock",
+    "Psychedelic Rock"
+   ],
+   "tracks": 9,
+   "runtime": 2661,
+   "runtimeSource": "discogs",
+   "added": "2021-09-28",
+   "source": "vinyl",
+   "art": "art/3219084.jpg",
+   "discogs": "https://www.discogs.com/release/3219084",
+   "category": "dads"
+  },
+  {
+   "id": 2072114,
+   "artist": "The Paul Butterfield Blues Band",
+   "title": "In My Own Dream",
+   "year": 1968,
+   "label": "Elektra",
+   "catno": "EKS-74025",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Stereo",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Blues Rock"
+   ],
+   "tracks": 7,
+   "runtime": 2087,
+   "runtimeSource": "discogs",
+   "added": "2021-09-28",
+   "source": "vinyl",
+   "art": "art/2072114.jpg",
+   "discogs": "https://www.discogs.com/release/2072114",
+   "category": "dads"
+  },
+  {
+   "id": 10104910,
+   "artist": "Theo Katzman",
+   "title": "Heartbreak Hits",
+   "year": 2017,
+   "label": "Not On Label",
+   "catno": "none",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Rock",
+    "Pop"
+   ],
+   "styles": [
+    "Indie Rock",
+    "Pop Rock"
+   ],
+   "tracks": 10,
+   "runtime": 2228,
+   "runtimeSource": "discogs",
+   "added": "2020-11-30",
+   "source": "vinyl",
+   "art": "art/10104910.jpg",
+   "discogs": "https://www.discogs.com/release/10104910",
+   "category": "vulf"
+  },
+  {
+   "id": 14909125,
+   "artist": "Theo Katzman",
+   "title": "Modern Johnny Sings: Songs In The Age Of Vibe",
+   "year": 2020,
+   "label": "Ten Good Songs",
+   "catno": "TEN003",
+   "format": "Vinyl",
+   "formatDetail": "45 RPM, Album, LP, Limited Edition, Stereo",
+   "genres": [
+    "Pop"
+   ],
+   "styles": [
+    "Indie Pop"
+   ],
+   "tracks": 12,
+   "runtime": 3100,
+   "runtimeSource": "discogs",
+   "added": "2020-11-30",
+   "source": "vinyl",
+   "art": "art/14909125.jpg",
+   "discogs": "https://www.discogs.com/release/14909125",
+   "category": "vulf"
+  },
+  {
+   "id": 25939375,
+   "artist": "Theo Katzman",
+   "title": "Modern Johnny Sings: Songs in the Age of Live",
+   "year": 2022,
+   "label": "Ten Good Songs",
+   "catno": "TEN005",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Rock",
+    "Funk / Soul",
+    "Pop"
+   ],
+   "styles": [],
+   "tracks": 15,
+   "runtime": 5094,
+   "runtimeSource": "discogs",
+   "added": "2023-02-01",
+   "source": "vinyl",
+   "art": "art/25939375.jpg",
+   "discogs": "https://www.discogs.com/release/25939375",
+   "category": "vulf"
+  },
+  {
+   "id": 23635991,
+   "artist": "Theo Katzman",
+   "title": "Romance Without Finance",
+   "year": 2022,
+   "label": "10 Good Songs",
+   "catno": "TEN004",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Special Edition",
+   "genres": [
+    "Rock",
+    "Funk / Soul",
+    "Pop"
+   ],
+   "styles": [
+    "Indie Pop",
+    "Indie Rock",
+    "Soul"
+   ],
+   "tracks": 10,
+   "runtime": 2540,
+   "runtimeSource": "discogs",
+   "added": "2022-07-18",
+   "source": "vinyl",
+   "art": "art/23635991.jpg",
+   "discogs": "https://www.discogs.com/release/23635991",
+   "category": "vulf"
+  },
+  {
+   "id": 26921093,
+   "artist": "Theo Katzman",
+   "title": "Be The Wheel",
+   "year": 2023,
+   "label": "Ten Good Songs",
+   "catno": "TEN006",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Pop"
+   ],
+   "styles": [
+    "Indie Pop"
+   ],
+   "tracks": 11,
+   "runtime": 2711,
+   "runtimeSource": "discogs",
+   "added": "2023-05-01",
+   "source": "vinyl",
+   "art": "art/26921093.jpg",
+   "discogs": "https://www.discogs.com/release/26921093",
+   "category": "vulf"
+  },
+  {
+   "id": 32771667,
+   "artist": "Theo Katzman",
+   "title": "Live From The Other Side",
+   "year": 2024,
+   "label": "Ten Good Songs",
+   "catno": "TEN007",
+   "format": "Vinyl",
+   "formatDetail": "LP, Limited Edition, Numbered",
+   "genres": [
+    "Rock",
+    "Pop"
+   ],
+   "styles": [
+    "Indie Pop",
+    "Indie Rock"
+   ],
+   "tracks": 16,
+   "runtime": 5153,
+   "runtimeSource": "musicbrainz",
+   "added": "2025-01-08",
+   "source": "vinyl",
+   "art": "art/32771667.jpg",
+   "discogs": "https://www.discogs.com/release/32771667",
+   "category": "vulf"
+  },
+  {
+   "id": 13808653,
+   "artist": "Theo Katzman, Four Fine Gentlemen",
+   "title": "My Heart Is Live In Berlin",
+   "year": 2019,
+   "label": "10 Good Songs",
+   "catno": "TEN002",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Limited Edition",
+   "genres": [
+    "Rock",
+    "Pop",
+    "Folk, World, & Country"
+   ],
+   "styles": [
+    "Indie Pop",
+    "Indie Rock",
+    "Alternative Rock",
+    "Folk"
+   ],
+   "tracks": 15,
+   "runtime": 4034,
+   "runtimeSource": "musicbrainz",
+   "added": "2020-11-30",
+   "source": "vinyl",
+   "art": "art/13808653.jpg",
+   "discogs": "https://www.discogs.com/release/13808653",
+   "category": "vulf"
+  },
+  {
+   "id": 24781703,
+   "artist": "Through The Sparks",
+   "title": "Lazarus Beach",
+   "year": 2022,
+   "label": "Skybucket Records",
+   "catno": "SB21",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Rock",
+    "Pop"
+   ],
+   "styles": [
+    "Pop Rock",
+    "Indie Rock",
+    "Indie Pop"
+   ],
+   "tracks": 13,
+   "runtime": 2170,
+   "runtimeSource": "discogs",
+   "added": "2023-01-03",
+   "source": "vinyl",
+   "art": "art/24781703.jpg",
+   "discogs": "https://www.discogs.com/release/24781703",
+   "category": "indie"
+  },
+  {
+   "id": 15975972,
+   "artist": "Tommy Siegel",
+   "title": "Another Century Wasted",
+   "year": 2020,
+   "label": "Tommy Siegel Publishing",
+   "catno": "none",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Rock",
+    "Pop"
+   ],
+   "styles": [
+    "Indie Rock",
+    "Indie Pop"
+   ],
+   "tracks": 10,
+   "runtime": 2206,
+   "runtimeSource": "discogs",
+   "added": "2020-11-30",
+   "source": "vinyl",
+   "art": "art/15975972.jpg",
+   "discogs": "https://www.discogs.com/release/15975972",
+   "category": "indie"
+  },
+  {
+   "id": 9329936,
+   "artist": "University Of Michigan Men's Glee Club",
+   "title": "Songs Of Michigan",
+   "year": 1977,
+   "label": "Not On Label",
+   "catno": "none",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Folk, World, & Country"
+   ],
+   "styles": [
+    "Vocal"
+   ],
+   "tracks": 15,
+   "runtime": 1742,
+   "runtimeSource": "corrected",
+   "added": "2020-11-30",
+   "source": "vinyl",
+   "art": "art/9329936.jpg",
+   "discogs": "https://www.discogs.com/release/9329936",
+   "runtimeNote": "Discogs has these durations mis-entered as seconds; corrected here",
+   "category": "michigan"
+  },
+  {
+   "id": 3961216,
+   "artist": "Vince Guaraldi Trio",
+   "title": "A Charlie Brown Christmas",
+   "year": 2012,
+   "label": "Fantasy",
+   "catno": "8431",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Reissue, Remastered",
+   "genres": [
+    "Jazz",
+    "Stage & Screen"
+   ],
+   "styles": [
+    "Contemporary Jazz",
+    "Holiday"
+   ],
+   "tracks": 12,
+   "runtime": 2394,
+   "runtimeSource": "discogs",
+   "added": "2022-11-30",
+   "source": "vinyl",
+   "art": "art/3961216.jpg",
+   "discogs": "https://www.discogs.com/release/3961216",
+   "category": "holiday"
+  },
+  {
+   "id": 25536610,
+   "artist": "Vulfmon",
+   "title": "Vulf Vault 006: Here We Go Jack",
+   "year": 2022,
+   "label": "Vulf Records",
+   "catno": "VV006",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Numbered",
+   "genres": [
+    "Rock",
+    "Funk / Soul",
+    "Pop",
+    "Classical"
+   ],
+   "styles": [
+    "Contemporary R&B",
+    "Funk",
+    "Soul"
+   ],
+   "tracks": 10,
+   "runtime": 1913,
+   "runtimeSource": "discogs",
+   "added": "2023-02-01",
+   "source": "vinyl",
+   "art": "art/25536610.jpg",
+   "discogs": "https://www.discogs.com/release/25536610",
+   "category": "vulf"
+  },
+  {
+   "id": 32372388,
+   "artist": "Vulfmon",
+   "title": "Dot",
+   "year": 2024,
+   "label": "Vulf Records",
+   "catno": "VULF2024USA",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Limited Edition, Stereo",
+   "genres": [
+    "Funk / Soul",
+    "Pop"
+   ],
+   "styles": [],
+   "tracks": 10,
+   "runtime": 1847,
+   "runtimeSource": "discogs",
+   "added": "2024-11-23",
+   "source": "vinyl",
+   "art": "art/32372388.jpg",
+   "discogs": "https://www.discogs.com/release/32372388",
+   "category": "vulf"
+  },
+  {
+   "id": 7668432,
+   "artist": "Vulfpeck",
+   "title": "Thrill Of The Arts",
+   "year": 2015,
+   "label": "Vulf Records",
+   "catno": "VULF1202",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Funk / Soul"
+   ],
+   "styles": [
+    "Funk",
+    "Contemporary R&B",
+    "Soul"
+   ],
+   "tracks": 10,
+   "runtime": 1947,
+   "runtimeSource": "discogs",
+   "added": "2020-11-30",
+   "source": "vinyl",
+   "art": "art/7668432.jpg",
+   "discogs": "https://www.discogs.com/release/7668432",
+   "category": "vulf"
+  },
+  {
+   "id": 12950969,
+   "artist": "Vulfpeck",
+   "title": "Hill Climber",
+   "year": 2018,
+   "label": "Vulf Records",
+   "catno": "VULF2018",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Funk / Soul"
+   ],
+   "styles": [
+    "Funk",
+    "Contemporary R&B",
+    "Soul"
+   ],
+   "tracks": 10,
+   "runtime": 2020,
+   "runtimeSource": "discogs-other-pressing",
+   "added": "2020-11-30",
+   "source": "vinyl",
+   "art": "art/12950969.jpg",
+   "discogs": "https://www.discogs.com/release/12950969",
+   "category": "vulf"
+  },
+  {
+   "id": 14911461,
+   "artist": "Vulfpeck",
+   "title": "Live At Madison Square Garden",
+   "year": 2020,
+   "label": "Vulf Records",
+   "catno": "VULF2020",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Stereo",
+   "genres": [
+    "Funk / Soul"
+   ],
+   "styles": [
+    "Funk",
+    "Neo Soul"
+   ],
+   "tracks": 19,
+   "runtime": 4745,
+   "runtimeSource": "musicbrainz",
+   "added": "2020-11-30",
+   "source": "vinyl",
+   "art": "art/14911461.jpg",
+   "discogs": "https://www.discogs.com/release/14911461",
+   "category": "vulf"
+  },
+  {
+   "id": 15753446,
+   "artist": "Vulfpeck",
+   "title": "Vulf Vault 001: Antwaun Stanley",
+   "year": 2020,
+   "label": "Vulf Records",
+   "catno": "VV001",
+   "format": "Vinyl",
+   "formatDetail": "Album, Compilation, LP",
+   "genres": [
+    "Funk / Soul"
+   ],
+   "styles": [
+    "Neo Soul"
+   ],
+   "tracks": 8,
+   "runtime": null,
+   "runtimeSource": null,
+   "added": "2020-11-30",
+   "source": "vinyl",
+   "art": "art/15753446.jpg",
+   "discogs": "https://www.discogs.com/release/15753446",
+   "category": "vulf"
+  },
+  {
+   "id": 16232353,
+   "artist": "Vulfpeck",
+   "title": "Vulf Vault 002: Inside The Mind Of Woody Goss",
+   "year": 2020,
+   "label": "Vulf Records",
+   "catno": "VV002",
+   "format": "Vinyl",
+   "formatDetail": "Album, Compilation, LP",
+   "genres": [
+    "Funk / Soul"
+   ],
+   "styles": [
+    "Neo Soul"
+   ],
+   "tracks": 11,
+   "runtime": null,
+   "runtimeSource": null,
+   "added": "2020-11-30",
+   "source": "vinyl",
+   "art": "art/16232353.jpg",
+   "discogs": "https://www.discogs.com/release/16232353",
+   "category": "vulf"
+  },
+  {
+   "id": 18241894,
+   "artist": "Vulfpeck",
+   "title": "The Joy Of Music, The Job Of Real Estate",
+   "year": 2021,
+   "label": "Vulf Records",
+   "catno": "VULF2020",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Stereo",
+   "genres": [
+    "Funk / Soul"
+   ],
+   "styles": [
+    "Funk"
+   ],
+   "tracks": 10,
+   "runtime": 1908,
+   "runtimeSource": "discogs",
+   "added": "2024-06-17",
+   "source": "vinyl",
+   "art": "art/18241894.jpg",
+   "discogs": "https://www.discogs.com/release/18241894",
+   "category": "vulf"
+  },
+  {
+   "id": 19316146,
+   "artist": "Vulfpeck",
+   "title": "Vollmilch",
+   "year": 2021,
+   "label": "Vulf Records",
+   "catno": "VULF2012MOMW",
+   "format": "Vinyl",
+   "formatDetail": "12\", 33 ⅓ RPM, EP, Limited Edition, Misprint, Repress",
+   "genres": [
+    "Funk / Soul"
+   ],
+   "styles": [
+    "Funk"
+   ],
+   "tracks": 6,
+   "runtime": 1614,
+   "runtimeSource": "discogs-other-pressing",
+   "added": "2024-06-17",
+   "source": "vinyl",
+   "art": "art/19316146.jpg",
+   "discogs": "https://www.discogs.com/release/19316146",
+   "category": "vulf"
+  },
+  {
+   "id": 20008846,
+   "artist": "Vulfpeck",
+   "title": "Vulf Vault 003: Theo!",
+   "year": 2021,
+   "label": "Vulf Records",
+   "catno": "VV003",
+   "format": "Vinyl",
+   "formatDetail": "Album, Compilation, LP, Limited Edition",
+   "genres": [
+    "Funk / Soul"
+   ],
+   "styles": [],
+   "tracks": 11,
+   "runtime": null,
+   "runtimeSource": null,
+   "added": "2021-09-08",
+   "source": "vinyl",
+   "art": "art/20008846.jpg",
+   "discogs": "https://www.discogs.com/release/20008846",
+   "category": "vulf"
+  },
+  {
+   "id": 22752023,
+   "artist": "Vulfpeck",
+   "title": "Vulf Vault 004: Dart",
+   "year": 2022,
+   "label": "Vulf Records",
+   "catno": "VV004",
+   "format": "Vinyl",
+   "formatDetail": "Album, Compilation, LP, Stereo",
+   "genres": [
+    "Jazz",
+    "Funk / Soul"
+   ],
+   "styles": [
+    "Jazz-Funk",
+    "Soul-Jazz"
+   ],
+   "tracks": 10,
+   "runtime": null,
+   "runtimeSource": null,
+   "added": "2022-04-26",
+   "source": "vinyl",
+   "art": "art/22752023.jpg",
+   "discogs": "https://www.discogs.com/release/22752023",
+   "category": "vulf"
+  },
+  {
+   "id": 25412044,
+   "artist": "Vulfpeck",
+   "title": "Schvitz",
+   "year": 2023,
+   "label": "Vulf Records",
+   "catno": "VULF2022PECKUS",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Funk / Soul"
+   ],
+   "styles": [
+    "Funk"
+   ],
+   "tracks": 10,
+   "runtime": 2067,
+   "runtimeSource": "discogs",
+   "added": "2024-06-17",
+   "source": "vinyl",
+   "art": "art/25412044.jpg",
+   "discogs": "https://www.discogs.com/release/25412044",
+   "category": "vulf"
+  },
+  {
+   "id": 34413274,
+   "artist": "Vulfpeck",
+   "title": "Clarity Of Cal",
+   "year": 2025,
+   "label": "Vulf Records",
+   "catno": "VULF2025",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Numbered, Stereo",
+   "genres": [
+    "Funk / Soul"
+   ],
+   "styles": [
+    "Funk",
+    "Neo Soul"
+   ],
+   "tracks": 11,
+   "runtime": 2316,
+   "runtimeSource": "discogs-other-pressing",
+   "added": "2025-07-12",
+   "source": "vinyl",
+   "art": "art/34413274.jpg",
+   "discogs": "https://www.discogs.com/release/34413274",
+   "category": "vulf"
+  },
+  {
+   "id": 23533574,
+   "artist": "Vulfpeck, Cory Wong",
+   "title": "Vulf Vault 005: Wong's Cafe",
+   "year": 2022,
+   "label": "Vulf Records",
+   "catno": "VV005",
+   "format": "Vinyl",
+   "formatDetail": "Album, Compilation, LP",
+   "genres": [
+    "Funk / Soul"
+   ],
+   "styles": [
+    "Neo Soul"
+   ],
+   "tracks": 10,
+   "runtime": null,
+   "runtimeSource": null,
+   "added": "2022-07-12",
+   "source": "vinyl",
+   "art": "art/23533574.jpg",
+   "discogs": "https://www.discogs.com/release/23533574",
+   "category": "vulf"
+  },
+  {
+   "id": 20309884,
+   "artist": "Woody & Jeremy",
+   "title": "Gravy in My Coffee",
+   "year": 2021,
+   "label": "Not On Label (Woody & Jeremy Self-released)",
+   "catno": "none",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Funk / Soul"
+   ],
+   "styles": [],
+   "tracks": 10,
+   "runtime": 1701,
+   "runtimeSource": "discogs",
+   "added": "2024-05-11",
+   "source": "vinyl",
+   "art": "art/20309884.jpg",
+   "discogs": "https://www.discogs.com/release/20309884",
+   "category": "vulf"
+  },
+  {
+   "id": 21926434,
+   "artist": "Woody & Jeremy",
+   "title": "Strange Satisfaction",
+   "year": 2022,
+   "label": "Not On Label (Woody & Jeremy Self-released)",
+   "catno": "none",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Repress",
+   "genres": [
+    "Funk / Soul",
+    "Pop"
+   ],
+   "styles": [
+    "Indie Pop",
+    "Disco",
+    "Funk"
+   ],
+   "tracks": 7,
+   "runtime": 1579,
+   "runtimeSource": "discogs",
+   "added": "2022-02-08",
+   "source": "vinyl",
+   "art": "art/21926434.jpg",
+   "discogs": "https://www.discogs.com/release/21926434",
+   "category": "vulf"
+  },
+  {
+   "id": 31201924,
+   "artist": "Woody & Jeremy",
+   "title": "Hold Up, Look Back",
+   "year": 2024,
+   "label": "Not On Label",
+   "catno": "none",
+   "format": "Vinyl",
+   "formatDetail": "LP",
+   "genres": [
+    "Funk / Soul"
+   ],
+   "styles": [
+    "Funk"
+   ],
+   "tracks": 9,
+   "runtime": 2375,
+   "runtimeSource": "musicbrainz",
+   "added": "2024-07-16",
+   "source": "vinyl",
+   "art": "art/31201924.jpg",
+   "discogs": "https://www.discogs.com/release/31201924",
+   "category": "vulf"
+  },
+  {
+   "id": 14533682,
+   "artist": "Woody Goss Trio",
+   "title": "A Very Vulfy Christmas",
+   "year": 2019,
+   "label": "Not On Label",
+   "catno": "19-0787",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP, Limited Edition, Stereo",
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [],
+   "tracks": 8,
+   "runtime": 1897,
+   "runtimeSource": "musicbrainz",
+   "added": "2022-01-18",
+   "source": "vinyl",
+   "art": "art/14533682.jpg",
+   "discogs": "https://www.discogs.com/release/14533682",
+   "category": "vulf"
+  },
+  {
+   "id": 22411630,
+   "artist": "Yonder Mountain String Band",
+   "title": "Get Yourself Outside",
+   "year": 2022,
+   "label": "Frog Pad Records",
+   "catno": "FP0222LP",
+   "format": "Vinyl",
+   "formatDetail": "LP",
+   "genres": [
+    "Folk, World, & Country"
+   ],
+   "styles": [
+    "Bluegrass"
+   ],
+   "tracks": 11,
+   "runtime": 2329,
+   "runtimeSource": "discogs",
+   "added": "2022-07-31",
+   "source": "vinyl",
+   "art": "art/22411630.jpg",
+   "discogs": "https://www.discogs.com/release/22411630",
+   "category": "indie"
+  }
+ ]
+}
