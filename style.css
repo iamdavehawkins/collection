@@ -146,6 +146,8 @@ hr { border: none; border-top: 1px solid #ccc; margin: 12px 0; }
     font-size: 14px; cursor: pointer; font-family: inherit;
 }
 .sheet-close:active { border-style: inset; }
+.sheet-links { font-size: 14px; }
+.sheet-links .sep { color: #999; }
 .sheet-nav { margin-left: auto; font-size: 14px; }
 .sheet-nav button {
     background: none; border: none; color: #00c; text-decoration: underline;

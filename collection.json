@@ -489,14 +489,14 @@
    "tracks": 5,
    "runtime": 1185,
    "runtimeSource": "masters",
-   "runtimeNote": "timed off my own masters, not a database",
    "added": "2026-01-30",
    "source": "vinyl",
    "art": "art/halfaliveep.jpg",
    "discogs": null,
    "mine": true,
    "bandcamp": "https://iamdavehawkins.bandcamp.com/album/half-alive-ep",
-   "category": "family"
+   "category": "family",
+   "buy": "https://elasticstage.com/iamdavehawkins/releases/half-alive-album"
   },
   {
    "id": 2177379,

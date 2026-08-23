@@ -216,14 +216,13 @@ function openSheet(i) {
     else if (r.runtimeSource === 'discogs-other-pressing') note = 'runtime from another pressing of the same record.';
     document.getElementById('sheetNote').textContent = note;
 
-    var link = document.getElementById('sheetLink');
-    if (r.discogs) {
-        link.href = r.discogs; link.textContent = 'view on discogs'; link.style.display = '';
-    } else if (r.bandcamp) {
-        link.href = r.bandcamp; link.textContent = 'hear it on bandcamp'; link.style.display = '';
-    } else {
-        link.style.display = 'none';
-    }
+    var links = [];
+    if (r.discogs) links.push([r.discogs, 'view on discogs']);
+    if (r.buy) links.push([r.buy, 'buy the vinyl or cd']);
+    if (r.bandcamp) links.push([r.bandcamp, 'hear it on bandcamp']);
+    document.getElementById('sheetLinks').innerHTML = links.map(function (l) {
+        return '<a href="' + esc(l[0]) + '" target="_blank" rel="noopener">' + esc(l[1]) + '</a>';
+    }).join('<span class="sep"> &middot; </span>');
 
     document.getElementById('sheetPrev').disabled = (i <= 0);
     document.getElementById('sheetNext').disabled = (i >= VIEW.length - 1);
