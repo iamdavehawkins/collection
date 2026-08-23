@@ -3,18 +3,12 @@ var CATS = [
       blurb: 'three generations. my grandfather, my dad, and me.' },
     { key: 'dads',     name: "dad's records",
       blurb: 'the shelf i grew up next to.' },
-    { key: 'vulf',     name: 'the vulf universe',
-      blurb: 'vulfpeck and everyone in orbit.' },
-    { key: 'michigan', name: 'michigan indies',
-      blurb: 'home state. detroit, ann arbor, ypsi, and points north.' },
-    { key: 'canon',    name: 'the canon',
-      blurb: 'the ones everybody knows, and for good reason.' },
-    { key: 'indie',    name: 'indie and everything else',
-      blurb: 'the wide middle of the shelf.' },
-    { key: 'jazz',     name: 'jazz, piano and ambient',
-      blurb: 'for when there should not be any words.' },
-    { key: 'holiday',  name: 'the holiday shelf',
-      blurb: 'december only. i do not make the rules.' }
+    { key: 'vulf',     name: 'the vulf universe' },
+    { key: 'michigan', name: 'michigan indies' },
+    { key: 'canon',    name: 'the canon' },
+    { key: 'indie',    name: 'indie and everything else' },
+    { key: 'jazz',     name: 'jazz, piano and ambient' },
+    { key: 'holiday',  name: 'the holiday shelf' }
 ];
 
 var RECORDS = [];
@@ -102,7 +96,7 @@ function build() {
         h.className = 'cat-head';
         h.innerHTML = '<div class="cat-name">' + esc(c.name) +
                       ' <span class="cat-count" data-count></span></div>' +
-                      '<div class="cat-blurb">' + esc(c.blurb) + '</div>';
+                      (c.blurb ? '<div class="cat-blurb">' + esc(c.blurb) + '</div>' : '');
         h.style.display = 'none';
         grid.appendChild(h);
         HEADS[c.key] = h;
