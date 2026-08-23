@@ -5,7 +5,7 @@ var CATS = [
       blurb: 'the shelf i grew up next to.' },
     { key: 'vulf',     name: 'the vulf universe' },
     { key: 'michigan', name: 'michigan indies' },
-    { key: 'canon',    name: 'the canon' },
+    { key: 'crate',    name: 'crate digging' },
     { key: 'indie',    name: 'indie and everything else' },
     { key: 'jazz',     name: 'jazz, piano and ambient' },
     { key: 'holiday',  name: 'the holiday shelf' }
