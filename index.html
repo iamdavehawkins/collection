@@ -19,15 +19,15 @@
     <meta name="twitter:image" content="https://collection.iamdavehawkins.com/art/1934367.jpg">
     <meta name="twitter:creator" content="@iamdavehawkins">
 
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css?v=4">
     <link rel="icon" href="art/1934367.jpg" type="image/jpeg">
     <script defer src="https://cloud.umami.is/script.js" data-website-id="99efd3af-3c2e-490e-adc0-aa7a12c5f68a"></script>
 </head>
 <body>
 
 <h1 id="top">my collection</h1>
-<h2>all the records on the shelf! denver, co.</h2>
-<p class="small">records i own. tap any cover for the pressing details.</p>
+<h2 id="subtitle">all the records on the shelf! denver, co.</h2>
+<p class="small" id="intro">records i own. tap any cover for the pressing details.</p>
 
 <div class="panel panel-hero">
     <p class="panel-title">join the email list</p>
@@ -41,12 +41,12 @@
 
 <div class="tabs" id="tabs">
     <button class="tab on" data-source="vinyl">vinyl</button>
-    <button class="tab" data-source="bandcamp" disabled title="coming soon">bandcamp (soon)</button>
+    <button class="tab" data-source="bandcamp">bandcamp</button>
 </div>
 
 <div class="controls">
     <input type="search" id="q" placeholder="search artist, title, label, genre..." autocomplete="off">
-    <label for="view">view:</label>
+    <label for="view" id="viewLabel">view:</label>
     <select id="view">
         <option value="category">by category</option>
         <option value="grid">everything</option>
@@ -89,6 +89,7 @@
                 <div class="sheet-title" id="sheetTitle"></div>
                 <div id="sheetTags"></div>
                 <div class="sheet-rows" id="sheetRows"></div>
+                <div class="sheet-disco" id="sheetDisco"></div>
                 <div class="sheet-note" id="sheetNote"></div>
             </div>
         </div>
@@ -103,6 +104,6 @@
     </div>
 </div>
 
-<script src="script.js"></script>
+<script src="script.js?v=4"></script>
 </body>
 </html>
