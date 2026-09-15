@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23",
+ "updated": "2026-09-14",
  "records": [
   {
    "id": 1046279,
@@ -3030,6 +3030,54 @@
    "source": "vinyl",
    "art": "art/22411630.jpg",
    "discogs": "https://www.discogs.com/release/22411630",
+   "category": "folk"
+  },
+  {
+   "id": 36955782,
+   "artist": "Rob Cantor",
+   "title": "Not A Trampoline",
+   "year": 2025,
+   "label": "Not On Label",
+   "catno": "none",
+   "format": "Vinyl",
+   "formatDetail": "Album, LP",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Pop Rock"
+   ],
+   "tracks": 13,
+   "runtime": 2494,
+   "runtimeSource": "discogs",
+   "added": "2026-09-14",
+   "source": "vinyl",
+   "art": "art/36955782.jpg",
+   "discogs": "https://www.discogs.com/release/36955782",
+   "category": "michigan"
+  },
+  {
+   "id": 38404125,
+   "artist": "Waterways",
+   "title": "Threshold Pieces",
+   "year": 2026,
+   "label": "No Ad Records",
+   "catno": "NOAD-01",
+   "format": "Vinyl",
+   "formatDetail": "EP, LP, Stereo",
+   "genres": [
+    "Rock"
+   ],
+   "styles": [
+    "Folk Rock"
+   ],
+   "tracks": 7,
+   "runtime": 1889,
+   "runtimeSource": "discogs",
+   "added": "2026-09-11",
+   "source": "vinyl",
+   "art": "art/38404125.jpg",
+   "discogs": "https://www.discogs.com/release/38404125",
    "category": "folk"
   },
   {
